@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Eli\source\repos\demo\demo\main.cpp(26,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(26,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(58,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(64,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(65,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(94,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(127,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(128,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(135,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(136,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(141,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(142,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(145,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eli\source\repos\demo\demo\main.cpp(146,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  demo.vcxproj -> C:\Users\Eli\source\repos\demo\x64\Debug\demo.exe
